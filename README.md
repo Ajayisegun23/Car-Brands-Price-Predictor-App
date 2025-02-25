@@ -1,4 +1,5 @@
 # Car-Brands-Resale price-Predictor Model
+
 Multilinear Regression Model: Car Brands Price Predictor Model
 This model outlines the process of developing and evaluating a multilinear regression model to predict the prices of car brands in United State of America. The model leverages the relationship between Price as the Target with feature components to predict the actual price base on these relationships, and its performance is measured using the Mean Absolute Error (MAE) metric.
 
